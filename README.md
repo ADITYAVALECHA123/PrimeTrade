@@ -103,4 +103,6 @@ Trader behavior is strongly influenced by sentiment:
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- Streamlit
+
+
+## The project can be executed via Jupyter Notebook after installing dependencies using requirements.txt
