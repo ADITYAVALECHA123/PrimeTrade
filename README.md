@@ -104,5 +104,5 @@ Trader behavior is strongly influenced by sentiment:
 - Scikit-learn
 - XGBoost
 
-
+## First you download the files from the repo and Extract the zip data file in same folder
 ## The project can be executed via Jupyter Notebook after installing dependencies using requirements.txt
